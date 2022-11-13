@@ -70,3 +70,13 @@ crashlytics-build.properties
 # Temporary auto-generated Android Assets
 /[Aa]ssets/[Ss]treamingAssets/aa.meta
 /[Aa]ssets/[Ss]treamingAssets/aa/*
+
+
+# ----------------自定义----------------
+# Oculus Integration整合
+/[Aa]ssets/Oculus.meta
+/[Aa]ssets/Oculus/
+Assets/Resources/OculusPlatformSettings.asset
+Assets/Resources/OculusPlatformSettings.asset.meta
+Assets/Resources/OVRPlatformToolSettings.asset
+Assets/Resources/OVRPlatformToolSettings.asset.meta
